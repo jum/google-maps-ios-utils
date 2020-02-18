@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/googlemaps/google-maps-ios-utils.svg?branch=master)](https://travis-ci.org/googlemaps/google-maps-ios-utils)
+![GitHub contributors](https://img.shields.io/github/contributors/googlemaps/google-maps-ios-utils)
+![Apache-2.0](https://img.shields.io/badge/license-Apache-blue)
+
 Google Maps SDK for iOS Utility Library
 =======================================
 
@@ -21,7 +25,6 @@ For more information, check out the detailed guide on the
 
 **Notes:**
 * [Contributing to the library][contributing].
-* [Integrating with Swift][swift].
 * [Customizing markers][customizing-markers].
 * [KML and GeoJSON rendering][geometry-rendering]
 * [Heatmap rendering][heatmap-rendering]
@@ -30,7 +33,6 @@ For more information, check out the detailed guide on the
 [devsite-guide]: https://developers.google.com/maps/documentation/ios-sdk/utility/
 [sdk]: https://developers.google.com/maps/documentation/ios-sdk
 [issues]: https://github.com/googlemaps/google-maps-ios-utils/issues
-[swift]: Swift.md
 [customizing-markers]: CustomMarkers.md
 [geometry-rendering]: GeometryRendering.md
 [heatmap-rendering]: HeatmapRendering.md
