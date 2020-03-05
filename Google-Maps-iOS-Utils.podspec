@@ -3,7 +3,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "Google-Maps-iOS-Utils"
-  s.version      = "3.0.0"
+  s.version      = "3.0.1"
   s.summary      = "A utilities library for use with Google Maps SDK for iOS."
   s.description  = "
                    This library contains classes that are useful for a wide range of applications
@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
   s.requires_arc = true
   s.module_name = "GoogleMapsUtils"
 
-  s.dependency 'GoogleMaps', '~> 3.7.0'
+  s.dependency 'GoogleMaps'
   s.static_framework = true
 
   s.subspec 'QuadTree' do |sp|
